@@ -91,12 +91,16 @@ PteroX-V2/
 
 ## 2. Upload the package
 
-Upload the **complete `PteroX-V2` folder** to your Pterodactyl server.
+Upload the **complete `PteroX-V2` folder** to your Pterodactyl directory.
 
 For example:
 
 ```text
 cd /var/www/pterodactyl/PteroX-V2/
+```
+```text
+Unzip The PteroX-V2-2.0.1-STABLE.zip by doing these steps 1. apt install zip -y 2. unzip PteroX-V2-2.0.1-STABLE.zip
+```
 ```
 
 > **Do not manually copy the contents of the `files/` folder.**
