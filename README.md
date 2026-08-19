@@ -1,4 +1,4 @@
-# PteroX V2
+# PteroX V2 - Open Source Feel Free To Edit!
 
 PteroX V2 is a modern frontend theme for **Pterodactyl Panel**, featuring a redesigned dark interface, custom navigation, server management UI, and configurable branding.
 
