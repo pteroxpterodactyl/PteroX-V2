@@ -96,7 +96,7 @@ Upload the **complete `PteroX-V2` folder** to your Pterodactyl server.
 For example:
 
 ```text
-/tmp/PteroX-V2/
+cd/var/www/pterodactyl/PteroX-V2/
 ```
 
 > **Do not manually copy the contents of the `files/` folder.**
@@ -108,7 +108,7 @@ For example:
 SSH into your server and run:
 
 ```bash
-cd /tmp/PteroX-V2
+cd/var/www/pterodactyl/PteroX-V2
 chmod +x install.sh
 sudo ./install.sh
 ```
