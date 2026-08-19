@@ -294,7 +294,7 @@ PteroX V2 includes an uninstaller that restores the most recent PteroX backup.
 From the PteroX package directory:
 
 ```bash
-cd /tmp/PteroX-V2
+cd /var/www/pterodactyl/PteroX-V2
 chmod +x uninstall.sh
 sudo ./uninstall.sh
 ```
