@@ -28,6 +28,20 @@ Customers do not need to install these packages manually.
 
 ---
 
+## 🖼️ Screenshots
+
+### 🏠 Main Panel
+
+![PteroX V2 Main Panel](main.png)
+
+### 📊 Dashboard
+
+![PteroX V2 Dashboard](dash.png)
+
+### 🔐 Login Page
+
+![PteroX V2 Login Page](login.png)
+
 ## 📥 Installation
 
 ### 1. Upload PteroX V2
@@ -247,6 +261,7 @@ Then hard-refresh with `Ctrl + Shift + R`.
 - 🖼️ All four PteroX logo locations can be customized independently.
 - 🔄 Future PteroX updates may overwrite custom frontend modifications.
 - 📦 PteroX V2 does **not** install Pterodactyl, Node.js, Yarn, PHP, or Composer for you.
+- ⚠️ **Blueprints are not supported by PteroX V2.**
 
 ---
 
