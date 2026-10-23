@@ -4,8 +4,8 @@ PteroX V2 is a **modern frontend theme for Pterodactyl Panel** featuring a redes
 
 ## 🛠️ Compatibility
 
-- 🐧 **Pterodactyl Panel:** `1.14.x`
-- ⭐ **Recommended version:** `1.14.1`
+- 🐧 **Pterodactyl Panel:** `1.15.x`
+- ⭐ **Recommended version:** `1.15.2`
 - 🟢 **Node.js:** Required
 - 🧶 **Yarn:** Required
 - 🐘 **PHP:** Required
@@ -13,7 +13,7 @@ PteroX V2 is a **modern frontend theme for Pterodactyl Panel** featuring a redes
 - 🌐 **curl:** Required
 - 🐍 **Python 3:** Required by the installer
 
-PteroX V2 is designed for **Pterodactyl 1.14.x**. Other versions are not guaranteed to work.
+PteroX V2 is designed for **Pterodactyl 1.15.x**. Other versions are not guaranteed to work.
 
 ## ✨ PteroX V2.0.2
 
@@ -218,7 +218,7 @@ Then hard-refresh the panel.
 
 ### Unsupported Pterodactyl Version
 
-PteroX V2 requires **Pterodactyl 1.14.x**. Do not bypass the version check.
+PteroX V2 requires **Pterodactyl 1.15.x**. Do not bypass the version check.
 
 ### Frontend Build Problems
 
@@ -255,7 +255,7 @@ Then hard-refresh with `Ctrl + Shift + R`.
 
 ## 📌 Important Notes
 
-- 🚀 PteroX V2 is designed for **Pterodactyl 1.14.x**.
+- 🚀 PteroX V2 is designed for **Pterodactyl 1.15.x**.
 - 💾 Keep your PteroX backups.
 - 🎨 Branding should normally be changed through `pterox.config.ts`.
 - 🖼️ All four PteroX logo locations can be customized independently.
